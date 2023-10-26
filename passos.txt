@@ -1,0 +1,10 @@
+Configurando o git
+git config --global user.name kaiquetol
+git config --global user.email kaiquetolentino21@gmail.com
+git clone https://github.com/kaiquetol/curriculo-simples.git
+
+
+Salvando no git
+gid add .
+gid commit -m "inicio dos codigo da pagina inicial"
+git push
